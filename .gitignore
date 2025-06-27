@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+npm-debug.log*
+.env*
+
+# Logs
+logs/
+*.log
+
+# Build artifacts
+build/
+dist/
+
+# Editor/OS specific files
+.DS_Store
+.eslintcache
+.node_repl_history
+
+# Test coverage
+coverage/
